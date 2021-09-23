@@ -40,4 +40,4 @@ Provide any documentation, if used, here.
 
 
 ## Versioning
-If large changes are being made, put versioning used in this section. 
+If large changes are being made, put versioning used in this section. 😀
